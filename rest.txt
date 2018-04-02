@@ -57,4 +57,3 @@ then
 echo "delete http://`hostname`/data/$QUERY_STRING"
 rm -f /var/www/html/data/$QUERY_STRING
 fi
-CGIScript
